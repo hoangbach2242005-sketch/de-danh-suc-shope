@@ -1,0 +1,8 @@
+# Large binaries & decompiled/extracted artifacts (>100MB / tens of thousands of files)
+*.apk
+*.xapk
+APK/shopeezin-decompiled/
+APK/shopeezin-extracted/
+
+# Local agent workspace config
+.agents/
